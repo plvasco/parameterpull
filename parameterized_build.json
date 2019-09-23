@@ -1,0 +1,15 @@
+{
+    "GovCloud Alias":"vaec-rds",
+    "GovCloud#":"319310186548",
+    "VAECID":"AWG20190903001",
+    "ProjectShort":"RDS",
+    "ProjectName":"Research Data Storage",
+    "AppCode (3-digit)":"RDS",
+    "Env":"Development",
+    "ConnectionID":"313-109",
+    "FISMA":"Moderate",
+    "VPC CIDR":"10.247.141.0/26",
+    "subnet1":"10.247.141.0/27",
+    "subnet2":"10.247.141.32/27"
+ }
+
