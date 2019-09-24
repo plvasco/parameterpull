@@ -8,7 +8,7 @@
     "Env":"Development",
     "ConnectionID":"313-109",
     "FISMA":"Moderate",
-    "VPC CIDR":"10.247.141.0/26",
+    "VPC_CIDR":"10.247.141.0/26",
     "subnet1":"10.247.141.0/27",
     "subnet2":"10.247.141.32/27"
  }
